@@ -1,0 +1,9 @@
+
+  "posts": [
+    {
+      "id": 1,
+      "name": "Karen",
+      "email": "Karen@gmail.com",
+      "message": "Dette funker!"
+    }
+  ]
